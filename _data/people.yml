@@ -679,3 +679,10 @@
   photo: martin_hering.jpg
   role: visitor
   website: null
+- alumni: false
+  display: Zhe Fu (Peter)
+  name: Zhe Fu (Peter)
+  order: 23
+  photo:
+  role: PhD student
+  website: null
